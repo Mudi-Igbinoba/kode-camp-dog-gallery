@@ -36,10 +36,10 @@ dogArray.push(dog9);
 let dog10 = new Dog("front-view-beautiful-dog-with-copy-space.jpg", "Einstein", "$1000");
 dogArray.push(dog10);
 
-let dog11 = new Dog("big-eyes.jpeg", "Brownie", "$400");
+let dog11 = new Dog("tiny-black.jpeg", "Brownie", "$400");
 dogArray.push(dog11);
 
-let dog12 = new Dog("tiny-black.jpeg", "Charlie", "$600");
+let dog12 = new Dog("big-eyes.jpeg", "Charlie", "$600");
 dogArray.push(dog12);
 console.log(dogArray);
 
