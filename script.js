@@ -48,7 +48,7 @@ let grids = "";
 dogArray.forEach(e => {
    grids += `
    <div class="col">
-   <div class="card shadow-lg  bg-dark bg-dark bg-dark bg-dark border-dark">
+   <div class="card shadow  bg-dark bg-dark bg-dark bg-dark border-dark">
        <img src="assets/images/${e.image}" alt="" class=" card-img-top img-fluid ">
        <div class="card-body bg-dark">
            <h2 class="card-title text-center text-white">${e.name}</h2>
